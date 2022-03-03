@@ -11,4 +11,3 @@ type Item struct {
 	Description string
 	Price       float32
 }
-``
